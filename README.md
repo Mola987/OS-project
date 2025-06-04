@@ -1,5 +1,4 @@
-# OS-project
-# Dining Philosophers 教學模型
+# OS-project Dining Philosophers 教學模型
 
 這是我們為作業系統課程設計的「哲學家就餐問題（Dining Philosophers Problem）」互動教具，透過模擬哲學家使用筷子的過程，幫助大家理解資源共享、同步機制與死鎖（Deadlock）處理的概念。
 
